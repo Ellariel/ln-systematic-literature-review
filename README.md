@@ -6,7 +6,7 @@ These are the supplementary materials for the systematic literature review on PC
 
 ### Working paper
 
-Valko, D. & Marx Gómez, J. (2025). Recent Advances in Global Payment Channel Networks: A Systematic Literature Review. arXiv. https://doi.org/10.48550/arXiv.
+Valko, D. & Marx Gómez, J. (2025). Recent Advances in Global Payment Channel Networks: A Systematic Literature Review. Research Square. https://doi.org/10.21203/rs.3.rs-7705514/v1.
 
 ```sh
 @misc{ValkoMarxGomez2025,
